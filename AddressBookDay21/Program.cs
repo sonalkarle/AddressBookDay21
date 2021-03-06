@@ -35,7 +35,7 @@ namespace AddressBookDay13
                 Console.WriteLine("6: Read address book from file");
                 Console.WriteLine("7: Write address book from file");
                 Console.WriteLine("8: Read  and write address book from csv file");
-                Console.WriteLine("9: Read and write address book from json file");
+               
                 
                 Console.WriteLine("Enter the choice want to perform the function");
                 int choice = Convert.ToInt32(Console.ReadLine());
@@ -66,10 +66,7 @@ namespace AddressBookDay13
                     case 8:
                         studentBook.ImplementCsv();
                         break;
-                    case 9:
-                        studentBook.JsonSerialize();
-                        studentBook.JsonDeSerialize();
-                        break;
+                    
          
                  
 

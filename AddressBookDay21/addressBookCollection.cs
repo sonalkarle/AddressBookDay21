@@ -219,42 +219,7 @@ namespace AddressBookDay13
                 }
             }
         }
-        /// <summary>
-        /// UC15: Ability to read and write JSON file
-        /// </summary>
-        public void JsonSerialize()
-        {
-            try
-            {
-                string path = @"C:\Users\User\source\repos\fileIO\AddressBookDay21\AddressBookDay21\JsonFile\AddressBook.json";
-          
-                string jsonData = JsonConvert.SerializeObject(contactDetailsList);
-             
-                using (StreamWriter sw = File.CreateText(path))
-                {
-                    sw.Flush();
-                    sw.Write(jsonData);
-                    Console.WriteLine(jsonData);
-                }
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
-        }
-
-        
-        public void JsonDeSerialize()
-        {
-            string path = @"C:\Users\User\source\repos\fileIO\AddressBookDay21\AddressBookDay21\JsonFile\AddressBook.json";
-            string result = File.ReadAllText(path);
-
-           // JsonReader reader = new JsonTextReader();
-            //Convert ContactDetails object to JSON string formt
-
-           List<ContactDetails>  contactDetails = JsonConvert.DeserializeObject<List<ContactDetails>>(result);
-
-        }
+   
 
     }
 
