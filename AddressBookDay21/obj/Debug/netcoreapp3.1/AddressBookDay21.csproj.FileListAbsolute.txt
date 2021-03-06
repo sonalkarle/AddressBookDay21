@@ -1,0 +1,31 @@
+C:\Users\User\source\repos\File IO\AddressBookDay21\AddressBookDay21\AddressBookDay21\bin\Debug\netcoreapp3.1\AddressBookDay21.exe
+C:\Users\User\source\repos\File IO\AddressBookDay21\AddressBookDay21\AddressBookDay21\bin\Debug\netcoreapp3.1\AddressBookDay21.deps.json
+C:\Users\User\source\repos\File IO\AddressBookDay21\AddressBookDay21\AddressBookDay21\bin\Debug\netcoreapp3.1\AddressBookDay21.runtimeconfig.json
+C:\Users\User\source\repos\File IO\AddressBookDay21\AddressBookDay21\AddressBookDay21\bin\Debug\netcoreapp3.1\AddressBookDay21.runtimeconfig.dev.json
+C:\Users\User\source\repos\File IO\AddressBookDay21\AddressBookDay21\AddressBookDay21\bin\Debug\netcoreapp3.1\AddressBookDay21.dll
+C:\Users\User\source\repos\File IO\AddressBookDay21\AddressBookDay21\AddressBookDay21\bin\Debug\netcoreapp3.1\AddressBookDay21.pdb
+C:\Users\User\source\repos\File IO\AddressBookDay21\AddressBookDay21\AddressBookDay21\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\User\source\repos\File IO\AddressBookDay21\AddressBookDay21\AddressBookDay21\obj\Debug\netcoreapp3.1\AddressBookDay21.csprojAssemblyReference.cache
+C:\Users\User\source\repos\File IO\AddressBookDay21\AddressBookDay21\AddressBookDay21\obj\Debug\netcoreapp3.1\AddressBookDay21.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\File IO\AddressBookDay21\AddressBookDay21\AddressBookDay21\obj\Debug\netcoreapp3.1\AddressBookDay21.AssemblyInfo.cs
+C:\Users\User\source\repos\File IO\AddressBookDay21\AddressBookDay21\AddressBookDay21\obj\Debug\netcoreapp3.1\AddressBookDay21.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\File IO\AddressBookDay21\AddressBookDay21\AddressBookDay21\obj\Debug\netcoreapp3.1\AddressBookDay21.csproj.CopyComplete
+C:\Users\User\source\repos\File IO\AddressBookDay21\AddressBookDay21\AddressBookDay21\obj\Debug\netcoreapp3.1\AddressBookDay21.dll
+C:\Users\User\source\repos\File IO\AddressBookDay21\AddressBookDay21\AddressBookDay21\obj\Debug\netcoreapp3.1\AddressBookDay21.pdb
+C:\Users\User\source\repos\File IO\AddressBookDay21\AddressBookDay21\AddressBookDay21\obj\Debug\netcoreapp3.1\AddressBookDay21.genruntimeconfig.cache
+C:\Users\User\source\repos\fileIO\AddressBookDay21\AddressBookDay21\AddressBookDay21\bin\Debug\netcoreapp3.1\AddressBookDay21.exe
+C:\Users\User\source\repos\fileIO\AddressBookDay21\AddressBookDay21\AddressBookDay21\bin\Debug\netcoreapp3.1\AddressBookDay21.deps.json
+C:\Users\User\source\repos\fileIO\AddressBookDay21\AddressBookDay21\AddressBookDay21\bin\Debug\netcoreapp3.1\AddressBookDay21.runtimeconfig.json
+C:\Users\User\source\repos\fileIO\AddressBookDay21\AddressBookDay21\AddressBookDay21\bin\Debug\netcoreapp3.1\AddressBookDay21.runtimeconfig.dev.json
+C:\Users\User\source\repos\fileIO\AddressBookDay21\AddressBookDay21\AddressBookDay21\bin\Debug\netcoreapp3.1\AddressBookDay21.dll
+C:\Users\User\source\repos\fileIO\AddressBookDay21\AddressBookDay21\AddressBookDay21\bin\Debug\netcoreapp3.1\AddressBookDay21.pdb
+C:\Users\User\source\repos\fileIO\AddressBookDay21\AddressBookDay21\AddressBookDay21\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\User\source\repos\fileIO\AddressBookDay21\AddressBookDay21\AddressBookDay21\obj\Debug\netcoreapp3.1\AddressBookDay21.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fileIO\AddressBookDay21\AddressBookDay21\AddressBookDay21\obj\Debug\netcoreapp3.1\AddressBookDay21.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fileIO\AddressBookDay21\AddressBookDay21\AddressBookDay21\obj\Debug\netcoreapp3.1\AddressBookDay21.AssemblyInfo.cs
+C:\Users\User\source\repos\fileIO\AddressBookDay21\AddressBookDay21\AddressBookDay21\obj\Debug\netcoreapp3.1\AddressBookDay21.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fileIO\AddressBookDay21\AddressBookDay21\AddressBookDay21\obj\Debug\netcoreapp3.1\AddressBookDay21.csproj.CopyComplete
+C:\Users\User\source\repos\fileIO\AddressBookDay21\AddressBookDay21\AddressBookDay21\obj\Debug\netcoreapp3.1\AddressBookDay21.dll
+C:\Users\User\source\repos\fileIO\AddressBookDay21\AddressBookDay21\AddressBookDay21\obj\Debug\netcoreapp3.1\AddressBookDay21.pdb
+C:\Users\User\source\repos\fileIO\AddressBookDay21\AddressBookDay21\AddressBookDay21\obj\Debug\netcoreapp3.1\AddressBookDay21.genruntimeconfig.cache
+C:\Users\User\source\repos\fileIO\AddressBookDay21\AddressBookDay21\AddressBookDay21\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
